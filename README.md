@@ -33,13 +33,6 @@
 - 🔗 [M-M Clothes](https://maryamirshad22.github.io/M-M-Clothes/)  
   *An online clothing store website made with HTML, CSS, and Firebase Authentication.*
 
-- 📱 [To-Do App (React Native + Node.js)](https://github.com/your_todo_app_link)  
-  *A mobile to-do list app using React Native, Expo, and MongoDB Atlas.*
-
-- 🛍️ [Jewelry E-Commerce Site (MERN)](https://github.com/your_ecommerce_project) *(Work in progress)*  
-  *A full-stack online store featuring login/signup, cart, and payment gateway.*
-
----
 
 ### 📊 GitHub Stats:
 
@@ -51,13 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamirshad22&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
-
-### 🐍 Contribution Snake (just for fun!)
-
-![snake gif](https://github.com/maryamirshad22/maryamirshad22/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🔥 About Me
 
