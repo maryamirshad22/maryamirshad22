@@ -6,7 +6,6 @@
 ### 📬 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-irshad-720179357/)
-<!-- Add more links like portfolio or email if needed -->
 
 ---
 
